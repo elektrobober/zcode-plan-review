@@ -1,0 +1,2 @@
+CHECK=make check
+REQUIRE_GATES=1

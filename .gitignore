@@ -1,0 +1,8 @@
+.env*
+!.env.example
+.venv/
+__pycache__/
+.ruff_cache/
+.superpowers/
+var/
+.DS_Store
